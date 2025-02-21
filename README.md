@@ -1,2 +1,2 @@
 # ip-locator
-this converts an ipv4 too info like the isp and region
+this converts an ipv4 too info which i suppose is useful in some instances, but in the case its not then i dont care.. im just posting old things i wont edit again.. unless there is a reason which prompts me to edit eg the code just doesnt work anymore in that case yes i may update this but if its a one sided issue (it works for me and not you) i wont update this, its an issue on your behalf or you edited the code and now it doesnt work (serves you right)
